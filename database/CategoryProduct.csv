@@ -1,0 +1,101 @@
+Id,Sku,Name,Price,Stock
+1,A01,Apel,32000,30
+2,A02,Avocado,20000,30
+3,A03,Banana,8000,30
+4,A04,Orange,13000,30
+5,A05,Watermelon,23000,30
+6,A06,Guava,14000,30
+7,A07,Grape,43000,30
+8,A08,Mango,20000,30
+9,A09,Melon,27000,30
+10,A10,Kiwi,32000,30
+11,A11,Strawberry,42000,30
+12,A12,Peach,43000,30
+13,A13,Durian,76000,30
+14,A14,Yuzu Orange,38000,30
+15,A15,Water Apple,19000,30
+16,A16,Blueberry,42000,30
+17,A17,Cherry,45000,30
+18,A18,Longan,18000,30
+19,A19,Lychee,42000,30
+20,A20,Plum,56000,30
+21,A21,Pear,32000,30
+22,A22,Apricot,51000,30
+23,A23,Pineapple,14000,30
+24,A24,Jackfruit,19000,30
+25,A25,Pomegranate,33000,30
+26,A26,Go Potato,7000,50
+27,A27,Lays,12000,50
+28,A28,Potabee,11000,50
+29,A29,Chubaa,9000,50
+30,A30,Qtela,8000,50
+31,A31,Milo,15000,50
+32,A32,Hilo,18000,50
+33,A33, Bebelac 250gr,63000,50
+34,A34,Bear Brand,16000,50
+35,A35, Kraft,28000,50
+36,A36,Fiesta Chicken Nugget,56000,50
+37,A37,Lasagna,28000,50
+38,A38,Peanut Jam Skippy,45000,50
+39,A39,Pocari Sweat,16500,50
+40,A40,Aqua,6900,50
+41,A41,Silverqueen,27600,50
+42,A42,Dairy Milk,23500,50
+43,A43,KitKat,35000,50
+44,A44,Choco Pie,4500,50
+45,A45,Yuppy,6700,50
+46,A46,Magnum ,16900,50
+47,A47,Rin Bee,7999,50
+48,A48,Sponge,16800,50
+49,A49,Chiki Net,19200,50
+50,A50,Pringles,27800,50
+51,A51,Beras Dolphin 3kg,57000,50
+52,A52,Beras Dolphin 5kg ,86000,25
+53,A53,Minyak 1L,22000,50
+54,A54,"Minyak 1,5L",34000,15
+55,A55,Minyak 2L,42000,40
+56,A56,Gula 1 kg,16500,100
+57,A57,Gula Halus 1kg,25000,30
+58,A58,Garam Laut,5000,100
+59,A59,Teh Melati,6500,100
+60,A60,Teh Hitam,8000,100
+61,A61,Kopi Hitam,12000,100
+62,A62,Capuchino Latte,13000,30
+63,A63,Chocholate,11000,60
+64,A64,Lada Putih Bubuk,8000,50
+65,A65,MSG,4000,100
+66,A66,Kaldu Sapi,1000,100
+67,A67,Oregano,9500,20
+68,A68,Parsley,13500,20
+69,A69,Kayu Manis,12500,50
+70,A70,Kunyit Bubuk,12500,50
+71,A71,Totole,7900,100
+72,A72,Bawang Putih Bubuk,3000,100
+73,A73,Cabe Bubuk,12500,20
+74,A74,Ketumbar Bubuk,5000,100
+75,A75,Saos Sambal,8600,100
+76,A76,Saos Tomat,7800,100
+77,A77,Baking Soda,3400,40
+78,A78,Baking powder,3400,40
+79,A79,Mentega,7000,40
+80,A80,Cuka Apel,8500,40
+81,A81,Mosturizer,60000,35
+82,A82,Facial Wash,34000,35
+83,A83,Toner,42000,35
+84,A84,Brightening Serum,63000,35
+85,A85,Acne Serum,65000,35
+86,A86,Sunscreen,54000,35
+87,A87,Hair Mask,80000,35
+88,A88,Lotion,24000,35
+89,A89,Exfoliation Serum,76000,35
+90,A90,Lip Serum,33000,35
+91,A91,Sheet Mask,7000,35
+92,A92,Lip Balm,24000,35
+93,A93,Face Mist,32000,35
+94,A94,Micelar Water,40000,35
+95,A95,Cleansing Balm,70000,35
+96,A96,Clay Mask,37000,35
+97,A97,Acne Patch,18000,35
+98,A98,Acne Spot Gel,28000,35
+99,A99,Spray Sunscreen,70000,35
+100,A100,Eye Mask,6000,35
